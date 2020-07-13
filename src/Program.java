@@ -5,6 +5,7 @@ public class Program {
 		System.out.println("Hello java");
 		int x= 3;
 		int y= 4;
+		int total=x+y;
 	}
 
 }
