@@ -8,6 +8,7 @@ public class Program {
 		int total=x+y;
 		System.out.printf("total is %d\n", total);
 		//수정1
+		//수정2
 	}
 
 }
