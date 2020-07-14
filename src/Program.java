@@ -9,6 +9,7 @@ public class Program {
 		System.out.printf("total is %d\n", total);
 		//수정1
 		//수정2
+		System.out.printf("total is %d\n", total/3.0f);
 	}
 
 }
